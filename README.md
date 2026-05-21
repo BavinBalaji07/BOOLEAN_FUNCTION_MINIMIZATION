@@ -44,6 +44,7 @@ assign f2 = x&~y&z | ~x&~y&z | ~w&x&y | w&~x&y | w&x&y;
 endmodule
 
 Developed by: Bavin Balaji R
+
 RegisterNumber:212225040045
 */
 
